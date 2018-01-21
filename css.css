@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    font-family: calibri;
+    margin-top: 2%;
+}
+
+h1,
+h2 {
+    color: #000;
+    text-align: center;
+}
+.final{
+    margin: 10px 350px 10px 350px;
+    border-style: double;
+     border-color: blue;
+     border-width: 2px 2px 2px 2px;
+}
+.label {
+    color: blue;
+}
+
+.input,
+.label {
+    color:blue;
+    text-align: center;
+    margin: 20px;
+}
+ .input > input
+ {
+     margin-bottom: 5px;
+ }
